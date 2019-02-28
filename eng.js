@@ -1,0 +1,1 @@
+var greetz = "Hello Buddy";
